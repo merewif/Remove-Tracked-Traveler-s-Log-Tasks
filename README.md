@@ -1,4 +1,4 @@
-# [Remove Tracked Traveler's Log Tasks]
+# Remove Tracked Traveler's Log Tasks
 
 Are you being bugged (hehe) by the Traveler's Log tasks reappearing in your quest log every time you log in, even after you've untracked them? This extremely tiny addon solves this persistent issue by automatically untracking all Traveler's Log tasks upon player login.
 
