@@ -1,0 +1,7 @@
+## Interface: 100107
+## Title: Remove Tracked Traveler's Log Tasks
+## Author: Bálint Táborszki
+## Version: 1.0
+## Notes: Automatically untracks all Traveler's Log tasks when you log in.
+
+core.lua
