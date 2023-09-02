@@ -5,7 +5,7 @@ Are you being bugged (hehe) by the Traveler's Log tasks reappearing in your ques
 ## Features
 
 - Automatically untracks all Traveler's Log tasks when you log in.
-- Extremely lightweight and easy to install.
+- Extremely lightweight.
 - No configuration needed; it just works!
 
 ## How to Install
